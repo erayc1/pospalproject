@@ -100,7 +100,7 @@ class OrderListPage extends StatelessWidget {
                               ),
                               padding: const EdgeInsets.symmetric(
                                   horizontal: 12, vertical: 8),
-                              minimumSize: Size(60, 36),
+                              minimumSize: const Size(60, 36),
                             ),
                             onPressed: () {},
                             child: const Text(
@@ -122,7 +122,7 @@ class OrderListPage extends StatelessWidget {
                               ),
                               padding: const EdgeInsets.symmetric(
                                   horizontal: 12, vertical: 8),
-                              minimumSize: Size(60, 36),
+                              minimumSize: const Size(60, 36),
                             ),
                             onPressed: () {},
                             child: const Text(
@@ -144,7 +144,7 @@ class OrderListPage extends StatelessWidget {
                               ),
                               padding: const EdgeInsets.symmetric(
                                   horizontal: 12, vertical: 8),
-                              minimumSize: Size(60, 36),
+                              minimumSize: const Size(60, 36),
                             ),
                             onPressed: () {},
                             child: const Text(
@@ -166,7 +166,7 @@ class OrderListPage extends StatelessWidget {
                               ),
                               padding: const EdgeInsets.symmetric(
                                   horizontal: 12, vertical: 8),
-                              minimumSize: Size(60, 36),
+                              minimumSize: const Size(60, 36),
                             ),
                             onPressed: () {},
                             child: const Text(
